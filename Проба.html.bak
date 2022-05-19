@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <title>XL Outlet</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+		<nav class="one">
+			<a href="https://vk.com/xl_family_outlet" target="_blank"><img src="logo/VK.png" width="40"></a>
+			<a href="https://t.me/xl_family_outlet" target="_blank"><img src="logo/tg.png" width="40"></a>
+		</nav>	
+		<div class="two">
+			СКИДКИ ДО -70%
+		</div> 
+		<div class="three"> 
+			У НАС ВСЕ ЕЩЕ <br> ВЫГОДНО!
+		</div> 
+		<div Class="trevel">
+			<a href="https://yandex.ru/" target="_blank" class="trevala">КАК ДОБРАТЬСЯ</a>
+		</div>
+		<div class="ass">	
+			<img src="logo/logo.jpg" width="200">
+		</div>
+	</header>
+    <footer>
+     
+    </footer>
+  </body>
+</html>
